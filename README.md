@@ -1,0 +1,2 @@
+# Parcial_Miercoles_Estructura_Gonzalo.Carmona
+ Este fue mi primer programa en si en el que implemente nuevos comandos para mi como mucha logica y espacios para que el tablero sea adecuado y todo este bien. En si es como cualquier juego de mesa en el que primero que llega a la meta gana, se tiran los dados y en bvase al numero que salga avanza dicha cantidad de casilleros, no es tan facil igual, hay muchos casilleros especiales que dificultan la facilidad de llegar a la meta.
